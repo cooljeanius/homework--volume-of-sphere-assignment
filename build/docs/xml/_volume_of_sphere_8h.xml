@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="_volume_of_sphere_8h" kind="file">
+    <compoundname>VolumeOfSphere.h</compoundname>
+    <includes local="no">stdio.h</includes>
+    <includes local="no">math.h</includes>
+    <incdepgraph>
+      <node id="14">
+        <label>math.h</label>
+      </node>
+      <node id="12">
+        <label>VolumeOfSphere.h</label>
+        <link refid="VolumeOfSphere.h"/>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+      </node>
+      <node id="13">
+        <label>stdio.h</label>
+      </node>
+    </incdepgraph>
+      <sectiondef kind="define">
+      <memberdef kind="define" id="_volume_of_sphere_8h_1a598a3330b3c21701223ee0ca14316eca" prot="public" static="no">
+        <name>PI</name>
+        <initializer>3.14159</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/Users/ericgallager/homework--volume-of-sphere-assignment/VolumeOfSphere.h" line="12" bodyfile="/Users/ericgallager/homework--volume-of-sphere-assignment/VolumeOfSphere.h" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="comment">/*</highlight></codeline>
+<codeline lineno="2"><highlight class="comment"><sp/>*<sp/><sp/>VolumeOfSphere.h</highlight></codeline>
+<codeline lineno="3"><highlight class="comment"><sp/>*<sp/><sp/>VolumeOfSphere</highlight></codeline>
+<codeline lineno="4"><highlight class="comment"><sp/>*</highlight></codeline>
+<codeline lineno="5"><highlight class="comment"><sp/>*<sp/><sp/>Created<sp/>by<sp/>Eric<sp/>Gallager<sp/>on<sp/>2/2/12.</highlight></codeline>
+<codeline lineno="6"><highlight class="comment"><sp/>*<sp/><sp/>Copyright<sp/>2012<sp/>George<sp/>Washington<sp/>University.<sp/>All<sp/>rights<sp/>reserved.</highlight></codeline>
+<codeline lineno="7"><highlight class="comment"><sp/>*</highlight></codeline>
+<codeline lineno="8"><highlight class="comment"><sp/>*/</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="9"><highlight class="normal"></highlight></codeline>
+<codeline lineno="10"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;stdio.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="11"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;math.h&gt;</highlight><highlight class="normal"><sp/></highlight><highlight class="comment">/*<sp/>contains<sp/>pow()<sp/>*/</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>PI<sp/>3.14159</highlight></codeline>
+    </programlisting>
+    <location file="/Users/ericgallager/homework--volume-of-sphere-assignment/VolumeOfSphere.h"/>
+  </compounddef>
+</doxygen>
