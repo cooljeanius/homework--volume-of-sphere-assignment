@@ -13,6 +13,9 @@ build/VolumeOfSphere.build
 .DS_Store
 *.build
 build/*
+build
+*.pbxuser
+*.perspectivev3
 
 ~/Documents/VolumeOfSphere/-1
 ~/Documents/VolumeOfSphere/.dropbox
