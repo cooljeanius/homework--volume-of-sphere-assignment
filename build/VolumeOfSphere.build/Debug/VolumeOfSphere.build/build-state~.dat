@@ -1,81 +1,0 @@
-TVolumeOfSphere
-v7
-r0
-t349941044.096837
-cCheck dependencies
-cDistributed-CompileC build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/VolumeOfSphere.o /Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c normal x86_64 c com.apple.compilers.gcc.4_2
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004BAC72CA00000000000000EE
-t1269592778
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
-c000000004A5C14A000000000000004F1
-t1247548576
-s1265
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
-c000000004B738B7F0000000000004174
-t1265863551
-s16756
-
-N/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c
-c000000004F2B75B300000000000002C9
-t1328248243
-s713
-i"VolumeOfSphere.h"
-
-N/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.h
-c000000004F2B74CC00000000000000F3
-t1328248012
-s243
-i<stdio.h>
-i<math.h>
-
-N/Users/ericgallager/Documents/VolumeOfSphere/build/Debug/VolumeOfSphere
-t2
-s0
-
-N/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/VolumeOfSphere.LinkFileList
-c000000004F2B75B3000000000000008A
-t1328248243
-s138
-
-N/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/VolumeOfSphere.o
-t2
-s0
-
-N/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/main.o
-t2
-s0
-
-N/Users/ericgallager/Documents/VolumeOfSphere/main.c
-c000000004F2B68340000000000000089
-t1328244788
-s137
-i<stdio.h>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies349941043#349941043#0(0"0(0#1#0"29836824280170608#0"0#
-
-CDistributed-CompileC build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/VolumeOfSphere.o /Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c normal x86_64 c com.apple.compilers.gcc.4_2
-s349941044.006218
-e349941044.096769
-r0
-xDistributed-CompileC
-xbuild/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/VolumeOfSphere.o
-x/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Distribute compilation of /Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c349941044#349941044#0(193"/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c: In function 'main':/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c:22: error: expected expression before '=' token1(4@36"Expected expression before '=' token349941044#83#110#0(6@61"/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c349941043#22#0#22#0#19"expected * before *0(0#0#61"/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c8458374063401035776#1712"    cd /Users/ericgallager/Documents/VolumeOfSphere    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5666) (dot 3)"    setenv DISTCC_HOSTS "localhost:3632/0"    setenv DISTCC_SYSTEM Unavailable    setenv DISTCC_VERBOSE 1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/VolumeOfSphere-generated-files.hmap -I/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/VolumeOfSphere-own-target-headers.hmap -I/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/VolumeOfSphere-all-target-headers.hmap -iquote /Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/VolumeOfSphere-project-headers.hmap -fpch-preprocess -F/Users/ericgallager/Documents/VolumeOfSphere/build/Debug -I/Users/ericgallager/Documents/VolumeOfSphere/build/Debug/include -I/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/DerivedSources/x86_64 -I/Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/DerivedSources -c /Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.c -o /Users/ericgallager/Documents/VolumeOfSphere/build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/VolumeOfSphere.o1#
-
-CDistributed-CompileC build/VolumeOfSphere.build/Debug/VolumeOfSphere.build/Objects-normal/x86_64/main.o /Users/ericgallager/Documents/VolumeOfSphere/main.c normal x86_64 c com.apple.compilers.gcc.4_2
-r0
-
-CLd /Users/ericgallager/Documents/VolumeOfSphere/build/Debug/VolumeOfSphere normal x86_64
-r0
-
