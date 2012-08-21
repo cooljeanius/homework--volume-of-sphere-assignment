@@ -14,8 +14,15 @@ build/VolumeOfSphere.build
 *.build
 build/*
 build
+build/docs/*
+Debug/*
 *.pbxuser
 *.perspectivev3
+a.out
+*.out
+*.cbtemp
+*.dSYM
+volumeofsphere
 
 ~/Documents/VolumeOfSphere/-1
 ~/Documents/VolumeOfSphere/.dropbox
