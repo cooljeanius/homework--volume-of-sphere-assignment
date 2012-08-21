@@ -21,6 +21,7 @@ Debug/*
 a.out
 *.out
 *.cbtemp
+*.cbp.cbtemp
 *.dSYM
 volumeofsphere
 
