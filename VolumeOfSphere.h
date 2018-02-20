@@ -1,4 +1,4 @@
-/*
+/* -*- C -*-
  *  VolumeOfSphere.h
  *  VolumeOfSphere
  *
