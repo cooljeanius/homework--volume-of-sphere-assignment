@@ -24,6 +24,10 @@ a.out
 *.cbp.cbtemp
 *.dSYM
 volumeofsphere
+*.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.xcodeproj/project.xcworkspace/xcuserdata/*
+*.xcuserdatad
+*.xcuserstate
 
 ~/Documents/VolumeOfSphere/-1
 ~/Documents/VolumeOfSphere/.dropbox
