@@ -267,7 +267,9 @@
 						<key>PBXSmartGroupTreeModuleOutlineStateKey_v7</key>
 						<dict>
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
-							<array/>
+							<array>
+								<string>08FB7794FE84155DC02AAC07</string>
+							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
@@ -320,14 +322,16 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A56B798714DBE5D5000E2CCA</string>
+										<string>A5C93DE5203C8CD600512C75</string>
 										<key>history</key>
 										<array>
-											<string>A53C2DF214DBAEA300C82346</string>
 											<string>A53C2DF314DBAEA300C82346</string>
 											<string>A53C2DF514DBAEA300C82346</string>
-											<string>A53C2DFD14DBAECF00C82346</string>
-											<string>A56B797C14DBE5AE000E2CCA</string>
+											<string>A5C93DDE203C8CD600512C75</string>
+											<string>A5C93DE0203C8CD600512C75</string>
+											<string>A5C93DE2203C8CD600512C75</string>
+											<string>A5C93DE3203C8CD600512C75</string>
+											<string>A5C93DE4203C8CD600512C75</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -341,18 +345,18 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1073, 354}}</string>
+								<string>{{0, 0}, {1073, 344}}</string>
 								<key>RubberWindowFrame</key>
 								<string>0 59 1280 719 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>354pt</string>
+							<string>344pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
-							<string>319pt</string>
+							<string>329pt</string>
 							<key>Tabs</key>
 							<array>
 								<dict>
@@ -366,7 +370,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1073, 292}}</string>
+										<string>{{10, 27}, {1073, 302}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 59 1280 719 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -421,8 +427,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1073, 292}}</string>
-										<key>RubberWindowFrame</key>
-										<string>0 59 1280 719 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -450,11 +454,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>A56B796614DBDE5D000E2CCA</string>
+				<string>A5C93DE6203C8CD600512C75</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>A56B796714DBDE5D000E2CCA</string>
+				<string>A5C93DE7203C8CD600512C75</string>
 				<string>A53C2DB914DB9FBD00C82346</string>
-				<string>A56B796814DBDE5D000E2CCA</string>
+				<string>A5C93DE8203C8CD600512C75</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -644,9 +648,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>A56B798314DBE5B4000E2CCA</string>
-		<string>A56B798414DBE5B4000E2CCA</string>
-		<string>/Users/ericgallager/Documents/VolumeOfSphere/VolumeOfSphere.xcodeproj</string>
+		<string>/Users/ericgallager/homework--volume-of-sphere-assignment/VolumeOfSphere.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 59 1280 719 0 0 1280 778 </string>
